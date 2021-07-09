@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adam\\Documents\\Advanced C#\\Delegates\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "C:\\Users\\adam\\Documents\\Advanced C#\\c_sharp\\Delegates\\Delegates\\Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "C:\\Users\\adam\\Documents\\Advanced C#\\Delegates\\Delegates\\Delegates.csproj",
+      "projectPath": "C:\\Users\\adam\\Documents\\Advanced C#\\c_sharp\\Delegates\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\adam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adam\\Documents\\Advanced C#\\Delegates\\Delegates\\obj\\",
+      "outputPath": "C:\\Users\\adam\\Documents\\Advanced C#\\c_sharp\\Delegates\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
