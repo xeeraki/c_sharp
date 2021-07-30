@@ -1,0 +1,13 @@
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.exe
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.deps.json
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.json
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.dev.json
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.dll
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\bin\Debug\netcoreapp3.1\Basic.pdb
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.AssemblyReference.cache
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.CoreCompileInputs.cache
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.dll
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.pdb
+C:\Users\adam\Documents\Advanced C#\c_sharp\Basic\Basic\obj\Debug\netcoreapp3.1\Basic.genruntimeconfig.cache
