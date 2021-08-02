@@ -4,10 +4,7 @@ using System.Text;
 
 namespace Basic
 {
-    public class Person
+    class Order
     {
-
-        public DateTime Birthdate { get; set; }
-
     }
 }
