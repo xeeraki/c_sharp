@@ -1,0 +1,16 @@
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.exe
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.deps.json
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.runtimeconfig.json
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.runtimeconfig.dev.json
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.dll
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\bin\Debug\net5.0\ref\DesignPattern.dll
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\bin\Debug\net5.0\DesignPattern.pdb
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.AssemblyInfo.cs
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.dll
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\obj\Debug\net5.0\ref\DesignPattern.dll
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.pdb
+C:\Users\adam\Documents\design-pattern\DesignPattern\DesignPattern\obj\Debug\net5.0\DesignPattern.genruntimeconfig.cache
