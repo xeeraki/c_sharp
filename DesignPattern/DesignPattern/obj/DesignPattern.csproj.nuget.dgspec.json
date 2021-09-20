@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adam\\Documents\\design-pattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {}
+    "C:\\Users\\adam\\Documents\\Advanced C#\\c_sharp\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adam\\Documents\\design-pattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {
+    "C:\\Users\\adam\\Documents\\Advanced C#\\c_sharp\\DesignPattern\\DesignPattern\\DesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adam\\Documents\\design-pattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+        "projectUniqueName": "C:\\Users\\adam\\Documents\\Advanced C#\\c_sharp\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
         "projectName": "DesignPattern",
-        "projectPath": "C:\\Users\\adam\\Documents\\design-pattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+        "projectPath": "C:\\Users\\adam\\Documents\\Advanced C#\\c_sharp\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
         "packagesPath": "C:\\Users\\adam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adam\\Documents\\design-pattern\\DesignPattern\\DesignPattern\\obj\\",
+        "outputPath": "C:\\Users\\adam\\Documents\\Advanced C#\\c_sharp\\DesignPattern\\DesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
