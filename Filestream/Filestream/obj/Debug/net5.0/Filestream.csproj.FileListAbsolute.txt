@@ -1,0 +1,16 @@
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\bin\Debug\net5.0\Filestream.exe
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\bin\Debug\net5.0\Filestream.deps.json
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\bin\Debug\net5.0\Filestream.runtimeconfig.json
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\bin\Debug\net5.0\Filestream.runtimeconfig.dev.json
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\bin\Debug\net5.0\Filestream.dll
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\bin\Debug\net5.0\ref\Filestream.dll
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\bin\Debug\net5.0\Filestream.pdb
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\obj\Debug\net5.0\Filestream.csproj.AssemblyReference.cache
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\obj\Debug\net5.0\Filestream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\obj\Debug\net5.0\Filestream.AssemblyInfoInputs.cache
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\obj\Debug\net5.0\Filestream.AssemblyInfo.cs
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\obj\Debug\net5.0\Filestream.csproj.CoreCompileInputs.cache
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\obj\Debug\net5.0\Filestream.dll
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\obj\Debug\net5.0\ref\Filestream.dll
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\obj\Debug\net5.0\Filestream.pdb
+C:\Users\adam\Documents\Advanced C#\c_sharp\Filestream\Filestream\obj\Debug\net5.0\Filestream.genruntimeconfig.cache
